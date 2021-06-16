@@ -1,0 +1,15 @@
+{
+  "name": "fashioncloud",
+  "version": "1.0.0",
+  "description": "e2e tests for testing fashion cloud test page",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run"
+  },
+  "author": "",
+  "license": "ISC"
+}

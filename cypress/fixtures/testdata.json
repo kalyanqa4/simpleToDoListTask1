@@ -1,0 +1,6 @@
+{
+	"header": "Simple ToDo List ",
+	"add":"Get Groceries",
+	"items":["pay CC Bill", "Have appointment with pediac"],
+	"delete":"Get Groceries"
+}
